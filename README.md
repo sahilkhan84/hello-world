@@ -1,3 +1,3 @@
-# hello-world
-Jenkins integration project
-This is Sahil Khans first
+# maven-project
+
+Simple Maven Project
